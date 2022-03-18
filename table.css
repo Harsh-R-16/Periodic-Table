@@ -1,0 +1,93 @@
+td {
+  width: 40px;
+  height: 40px;
+  border: 3px solid black;
+  margin: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: monospace;
+  font-size: 18px;
+}
+h1 {
+  margin: 10px 0px;
+  text-align: left;
+  font-size: 50px;
+}
+.h1 {
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+p {
+  margin: 0px;
+}
+p {
+  font-size: 16px;
+}
+#silicon {
+  background-color: #89a02c;
+  padding: 10px;
+  transform: scale(0.88);
+}
+.white {
+  border: none;
+}
+table {
+  width: fit-content;
+  margin: 70px auto;
+}
+
+.yellow {
+  background-color: #ffcc00;
+}
+
+.pink {
+  background-color: #ff0066;
+}
+
+.brown {
+  background-color: #6d535e;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: #aa0087;
+}
+
+.dark-green {
+  background-color: #5aa02c;
+}
+
+.orange {
+  background-color: #ff6600;
+}
+
+.black {
+  background-color: #ffe6d5;
+  border: 4px solid black;
+  box-sizing: border-box;
+}
+
+.light-green {
+  background-color: #89a02c;
+}
+
+.lpink {
+  background-color: #ff5555;
+}
+
+.dg {
+  background-color: #47582e;
+  color: white;
+  border: 1px solid black;
+}
+
+.lg {
+  background-color: #95bc5f;
+  border: 1px solid black;
+}
